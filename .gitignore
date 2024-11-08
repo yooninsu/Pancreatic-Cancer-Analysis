@@ -9,7 +9,7 @@
 
 # Optional: Ignore all files in a specific data folder (e.g., 'data' directory)
 data/
-
+wrong/
 # Ignore Json files
 *.json
 
@@ -19,3 +19,5 @@ data/
 # Ignore __pycache__ directories and .pyc files
 __pycache__/
 *.pyc
+
+

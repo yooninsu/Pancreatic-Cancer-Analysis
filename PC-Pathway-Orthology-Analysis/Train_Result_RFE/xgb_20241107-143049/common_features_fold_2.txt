@@ -1,0 +1,15 @@
+Bergeyella
+Desulfovibrio
+Dialister
+Fretibacterium
+Haemophilus
+Lachnoanaerobaculum
+Lactobacillus
+Leuconostoc
+Oribacterium
+Ottowia
+Parvimonas
+Pseudomonas
+Ralstonia
+Saccharimonas
+Streptococcus

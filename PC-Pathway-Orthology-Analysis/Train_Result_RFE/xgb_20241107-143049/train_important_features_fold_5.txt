@@ -1,0 +1,16 @@
+Bacteroides
+Bergeyella
+Cardiobacterium
+Catonella
+Enterococcus
+Haemophilus
+Lachnoanaerobaculum
+Lactobacillus
+Leuconostoc
+Olsenella
+Parvimonas
+Pseudomonas
+Ralstonia
+Saccharimonas
+Shuttleworthia
+Simonsiella
