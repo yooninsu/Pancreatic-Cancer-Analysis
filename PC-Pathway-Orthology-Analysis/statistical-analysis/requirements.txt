@@ -1,0 +1,9 @@
+scipy
+pandas
+boto3
+scikit-learn
+sagemaker
+openpyxl
+statsmodels==0.13.2
+numpy
+
